@@ -118,5 +118,9 @@ public class Recipes {
  		ItemStack pizza = new ItemStack(ModRegister.myPizza);
  		GameRegistry.addShapelessRecipe(pizza,
 				Items.bread, Items.cooked_porkchop);
+ 		
+ 		ItemStack diamondSword = new ItemStack(Items.diamond_sword);
+ 		diamondSword.addEnchantment(Enchantment.sharpness, 30);
+ 		GameRegistry.addShapedRecipe(diamondSword, "AAA", "ABA", "AAA", 'A', Blocks.dirt, 'B', Items.wooden_hoe);
  	}      
 }
