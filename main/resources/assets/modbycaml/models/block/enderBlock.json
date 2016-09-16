@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+       "down": "modbycaml:blocks/enderBlock",
+         "up": "modbycaml:blocks/enderBlock",
+      "north": "modbycaml:blocks/enderBlock",
+      "south": "modbycaml:blocks/enderBlock",
+       "west": "modbycaml:blocks/enderBlock",
+       "east": "modbycaml:blocks/enderBlock",
+   "particle": "modbycaml:blocks/enderBlock"
+  }
+}

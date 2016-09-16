@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "modbycaml:blocks/myfirstblock",
+        "up": "modbycaml:blocks/myfirstblock",
+        "north": "modbycaml:blocks/myfirstblock",
+        "east": "modbycaml:blocks/myfirstblock",
+        "south": "modbycaml:blocks/myfirstblock",
+        "west": "modbycaml:blocks/myfirstblock",
+        "particle": "blocks/lapis_block"
+    }
+}

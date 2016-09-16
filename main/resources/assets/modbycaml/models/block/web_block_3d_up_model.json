@@ -1,0 +1,24 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "down": "camlacademymods:blocks/web_block_3d",
+    "up": "camlacademymods:blocks/web_block_3d",
+    "north": "camlacademymods:blocks/web_block_3d",
+    "south": "camlacademymods:blocks/web_block_3d",
+    "east": "camlacademymods:blocks/web_block_3d",
+    "west": "camlacademymods:blocks/web_block_3d"
+  },
+  "elements": [
+    {  "from": [7.5, 10.5, 7.5],
+      "to": [8.5, 16, 8.5],
+      "faces": {
+        "down": {"uv": [ 7.5, 7.5, 8.5, 8.5], "texture": "#down"},
+        "up": {"uv": [ 7.5, 7.5, 8.5, 8.5], "texture": "#up", "cullface": "up"},
+        "north": {"uv": [ 7.5, 0, 8.5, 5.5], "texture": "#north"},
+        "south": {"uv": [ 7.5, 0, 8.5, 5.5], "texture": "#south"},
+        "west": {"uv": [ 7.5, 0, 8.5, 5.5], "texture": "#west"},
+        "east": {"uv": [ 7.5, 0, 8.5, 5.5], "texture": "#east"}
+      }
+    }
+  ]
+}

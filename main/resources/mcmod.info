@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modByCaml",
+  "name": "CAML Academy Mod",
+  "description": "Mod created @ CAML Academy",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "http://www.camlacademy.com",
+  "updateUrl": "http://www.camlacademy.com",
+  "authorList": ["CAML Academy Students"],
+  "credits": "CAML Academy Students & Teachers",
+  "logoFile": "caml.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

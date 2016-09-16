@@ -1,0 +1,7 @@
+{
+    "parent": "modbycaml:block/signBlock_model_shape",
+    "textures": {
+        "sign": "modbycaml:blocks/signBlock_green",
+        "particle": "blocks/wool_colored_green"
+    }
+}
